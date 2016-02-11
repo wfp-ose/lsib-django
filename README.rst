@@ -16,3 +16,9 @@ Install
 .. code-block:: bash
 
     pip install git+git://github.com/wfp-ose/lsib-django.git@master
+
+
+Contributing
+------------
+
+We are currently accepting pull requests for this repository. Please provide a human-readable description with a pull request and update the README.rst file as needed.
